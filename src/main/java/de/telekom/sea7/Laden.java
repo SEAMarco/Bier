@@ -38,7 +38,6 @@ public class Laden {
 		ausgabe = String.format(steuervorlage, pils.getName(), pils.getSteuer());
 		System.out.println(ausgabe);
 		
-		System.out.println("Terminal ist scheiße");
 
 	}
 
